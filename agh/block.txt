@@ -12,21 +12,3 @@
 ||streetviewpixels-pa.googleapis.com^
 ||bc.googleusercontent.com^
 ||arvr.google.com^
-
-
-# Waze - Help & Feedback
-
-||support.google.com^
-||policies.google.com^
-||csp.withgoogle.com^
-||web-assets.waze.com^
-||social-na.waze.com^
-||cresg.waze.com^
-||inbox-na.waze.com^
-||ads-resources.waze.com^
-||ogads-pa.clients6.google.com^
-||www.googletagmanager.com^
-||app-measurement.com^
-||lh3.googleusercontent.com^
-||www.youtube-nocookie.com^
-||i.ytimg.com^
