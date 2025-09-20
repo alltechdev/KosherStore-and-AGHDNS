@@ -12,4 +12,3 @@
 ||streetviewpixels-pa.googleapis.com^
 ||bc.googleusercontent.com^
 ||arvr.google.com^
-||api.github.com^
